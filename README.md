@@ -1,2 +1,2 @@
 # hello-world
-Hello World! I finally made it to GitHub. Eager to start a career in IT.
+Hello World! I finally made it to GitHub. Eager to start a career in IT. I am currently working in Pharma services, but I started learning Python, which I find very intuitive, relaxing, comprehensive and complex. It basically can do everything you want. I even used Python to make some apps for work, thus helping me being more productive and accomplishing tasks more rapidly. I automated my work, which for me is mindblowing.
